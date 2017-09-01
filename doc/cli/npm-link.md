@@ -70,5 +70,4 @@ include that scope, e.g.
 * npm-install(1)
 * npm-folders(5)
 * npm-config(1)
-* npm-config(7)
 * npmrc(5)
